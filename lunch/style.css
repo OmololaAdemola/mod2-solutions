@@ -29,7 +29,7 @@ body h1{
 
 
 .box {
-    background-color: maroon;
+    background-color: grey;
     color: rgb(31, 29, 29);
     padding: 5px;
     font-size: 15px;
@@ -55,7 +55,7 @@ div :nth-child(2) h2{
 }
 
 div:last-child h2 {
-    background-color: grey;
+    background-color: red;
 }
 
 
